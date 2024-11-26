@@ -15,7 +15,9 @@ You can install the required Python packages using pip:
 
 ```bash
 pip install pandas colorama openpyxl
+```
+## Example:
 
-https://github.com/user-attachments/assets/69b2559a-3a5f-4412-9276-6dcece295898
+https://github.com/user-attachments/assets/a97001dd-3ca5-44e3-a6c2-1635ada7a8f3
 
 
